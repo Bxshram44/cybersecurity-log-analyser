@@ -1,5 +1,9 @@
 🔐 Cybersecurity Log Analyser
 
+## 🌐 Live Application
+Try the interactive cybersecurity dashboard here!
+[Launch Cybersecurity Log Analyser](https://ubiquitous-halibut-jr7vp6jvjjr527-8501.app.github.dev/)
+
 Project Overview:
 A Python-based cybersecurity application that analyses login activity, identifies potentially suspicious patterns and generates security alerts.
 
